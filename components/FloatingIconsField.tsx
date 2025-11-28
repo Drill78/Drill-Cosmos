@@ -218,7 +218,7 @@ export default function FloatingIconsField() {
       ref={containerRef}
       className="relative w-full h-screen overflow-hidden"
       style={{
-        backgroundImage: 'url("/images/backgrounds/drill cosmos.png")',
+        backgroundImage: 'url("/images/backgrounds/drill-cosmos.png")',
         backgroundSize: "cover",
         backgroundPosition: "top center",
       }}
