@@ -224,9 +224,9 @@ export default function FloatingIconsField() {
       }}
     >
       {/* 左上角标题 */}
-      <div className="absolute top-4 left-4 text-white drop-shadow-[0_0_6px_rgba(0,0,0,0.7)] z-10">
-        <div className="text-xl font-bold">Drill Cosmos</div>
-        <div className="text-sm opacity-80">personal blog</div>
+      <div className="absolute bottom-4 right-4 text-white drop-shadow-[0_0_6px_rgba(0,0,0,0.7)] z-10">
+        <div className="text-xl md:text-2xl font-semibold text-glow-soft">Drill - Cosmos</div>
+        <div className="retro-title retro-cursor">Personal Blog</div>
       </div>
 
       {/* 悬浮 & 弹跳的图标按钮 */}

@@ -13,7 +13,7 @@ export type IconConfig = {
   export const ICONS: IconConfig[] = [
     {
       id: "home-blog",
-      imageSrc: "/images/icons/air ship.png",
+      imageSrc: "/images/icons/air-ship.png",
       href: "/blog",          // 杂谈文章
       width: 128,
       height: 128,
@@ -40,7 +40,7 @@ export type IconConfig = {
     },
     {
       id: "home-notes",
-      imageSrc: "/images/icons/qiu.png",
+      imageSrc: "/images/icons/58.gif",
       href: "/notes",         // 学习笔记 / 点子
       width: 128,
       height: 128,
@@ -58,7 +58,7 @@ export type IconConfig = {
     },
     {
       id: "home-skills",
-      imageSrc: "/images/icons/qiu.png",
+      imageSrc: "/images/icons/ditto-01.gif",
       href: "/skills",        // 2000 技能树
       width: 128,
       height: 128,

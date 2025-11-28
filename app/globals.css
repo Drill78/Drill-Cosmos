@@ -24,3 +24,137 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer components {
+  /* 1. 复古电子标题：单行大字用这个 */
+  .retro-title {
+    @apply font-mono uppercase tracking-[0.3em] text-lg md:text-2xl;
+    text-shadow:
+      0 0 4px rgba(0, 255, 204, 0.8),
+      0 0 12px rgba(0, 255, 204, 0.6);
+    letter-spacing: 0.3em;
+  }
+
+  /* 2. 电子副标题：比标题弱一点，适合小字介绍 */
+  .retro-subtitle {
+    @apply font-mono text-xs md:text-sm tracking-[0.2em] uppercase;
+    text-shadow:
+      0 0 3px rgba(0, 255, 204, 0.5),
+      0 0 8px rgba(0, 255, 204, 0.3);
+    letter-spacing: 0.2em;
+    opacity: 0.9;
+  }
+
+  /* 3. CRT 面板：用在 blog 列表 / 文章内容的外框 */
+  .crt-panel {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    background:
+      radial-gradient(circle at top left, rgba(0, 255, 255, 0.15), transparent 50%),
+      radial-gradient(circle at bottom right, rgba(255, 0, 255, 0.15), transparent 50%),
+      rgba(5, 10, 20, 0.95);
+    box-shadow:
+      0 0 0 1px rgba(0, 255, 255, 0.25),
+      0 0 24px rgba(0, 0, 0, 0.9);
+  }
+
+  /* CRT 扫描线叠加层 */
+  .crt-panel::before {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(
+      rgba(255, 255, 255, 0.03) 1px,
+      transparent 1px
+    );
+    background-size: 100% 3px; /* 越小越密的扫描线 */
+    opacity: 0.35;
+    mix-blend-mode: screen;
+  }
+
+  /* CRT 轻微噪点层 */
+  .crt-panel::after {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: -50%;
+    background-image: radial-gradient(
+      circle,
+      rgba(255, 255, 255, 0.08) 1px,
+      transparent 1px
+    );
+    background-size: 4px 4px;
+    opacity: 0.2;
+    mix-blend-mode: soft-light;
+  }
+
+  /* 4. 轻微闪烁效果（别太夸张，不然看着头晕） */
+  .crt-flicker {
+    animation: crt-flicker 2.6s infinite;
+  }
+
+  /* 5. 复古终端风的小标签：用在 tags / 分类 */
+  .retro-tag {
+    @apply font-mono text-[10px] uppercase px-2 py-0.5 rounded-full;
+    border: 1px solid rgba(0, 255, 255, 0.4);
+    background: rgba(0, 20, 30, 0.9);
+    box-shadow: 0 0 6px rgba(0, 255, 255, 0.35);
+  }
+
+  /* 6. 带光标的标题（末尾会闪一个 ▌） */
+  .retro-cursor {
+    position: relative;
+  }
+
+  .retro-cursor::after {
+    content: "▌";
+    display: inline-block;
+    margin-left: 4px;
+    animation: retro-cursor-blink 1s steps(1) infinite;
+    opacity: 0.9;
+  }
+}
+
+@layer utilities {
+  /* 如果你想给普通文字加轻微发光，可以用这个 */
+  .text-glow-soft {
+    text-shadow:
+      0 0 3px rgba(0, 255, 204, 0.6),
+      0 0 8px rgba(0, 255, 204, 0.4);
+  }
+}
+
+/* 闪烁动画 */
+@keyframes crt-flicker {
+  0% {
+    opacity: 0.96;
+  }
+  20% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0.98;
+  }
+  60% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.97;
+  }
+  100% {
+    opacity: 0.99;
+  }
+}
+
+@keyframes retro-cursor-blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  50.01%,
+  100% {
+    opacity: 0;
+  }
+}

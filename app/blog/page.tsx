@@ -11,10 +11,15 @@ export default async function BlogPage() {
     <main className="min-h-screen bg-black text-white">
       <div className="max-w-3xl mx-auto px-4 py-12 space-y-8">
         {/* 标题区 */}
-        <header className="space-y-2">
-          <h1 className="text-3xl font-bold">杂谈 / Essay Log</h1>
-          <p className="text-sm opacity-80">
-            这里是大钻宇宙里的长篇碎碎念：随笔、胡思乱想、研究日志、观后感……
+        <header className="space-y-3">
+          <div className="retro-title retro-cursor">
+            DRILL COSMOS · LOG
+          </div>
+          <h1 className="text-xl md:text-2xl font-semibold text-glow-soft">
+            杂谈 / Essay Log
+          </h1>
+          <p className="retro-subtitle">
+            long-form thoughts · 宇宙电台频道
           </p>
         </header>
 
@@ -49,15 +54,13 @@ export default async function BlogPage() {
               {post.tags && post.tags.length > 0 && (
                 <div className="mt-2 flex flex-wrap gap-2">
                   {post.tags.map((tag) => (
-                    <span
-                      key={tag}
-                      className="text-[10px] uppercase tracking-wide px-2 py-0.5 rounded-full bg-white/5 border border-white/10"
-                    >
+                    <span key={tag} className="retro-tag">
                       {tag}
                     </span>
                   ))}
                 </div>
               )}
+
             </article>
           ))}
         </section>
