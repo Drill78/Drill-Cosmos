@@ -1,174 +1,193 @@
-﻿技能名称,大类,小类,熟练度,掌握时间,描述,详细内容
-剧本创作,Art & Creative,,初窥门径,,,
-世界观设定,Art & Creative,,初窥门径,,,
-写杂谈文章,Art & Creative,,初窥门径,,,
-弹吉他,Art & Creative,音乐,初窥门径,,,
-量子力学基础,Mind & Knowledge,,初窥门径,,,
-逻辑哲学论,Mind & Knowledge,哲学,初窥门径,,,
-存在主义,Mind & Knowledge,哲学,初窥门径,,,
-海利克姆急救法,Adventure & Outdoor,,初窥门径,,,
-人工呼吸,Adventure & Outdoor,,初窥门径,,,
-基础急救,Adventure & Outdoor,,初窥门径,,,
-采购式出行,Adventure & Outdoor,,初窥门径,,,
-如何读博尔赫斯,Mind & Knowledge,哲学,初窥门径,,,
-周末延长法,Meta & System,meta,初窥门径,,,
-绳索速降,Adventure & Outdoor,户外,初窥门径,,,
-无线电通讯,Technology & Tools,技术,初窥门径,,,
-设计个人技能树,Meta & System,meta,初窥门径,,,
-Notion,Technology & Tools,技术,初窥门径,,,
-胶片摄影,Art & Creative,摄影,初窥门径,,,
-冲浪,Adventure & Outdoor,户外,初窥门径,,,
-攀岩,Adventure & Outdoor,户外,初窥门径,,,
-C++,Technology & Tools,编程,初窥门径,,,
-搭建网站,Technology & Tools,"技术, 编程",初窥门径,,,
-搭建NAS,Technology & Tools,技术,初窥门径,,,
-用摩卡壶冲咖啡,Life & Skills,饮料,初窥门径,2025,,
-文档分类与管理,Life & Skills,整理,轻车熟路,,,
-发票报账,Life & Skills,,轻车熟路,,,
-通下水道,Life & Skills,修理,轻车熟路,,,
-交水电费,Life & Skills,,轻车熟路,,,
-医院流程,Life & Skills,,轻车熟路,,,
-手擀面,Life & Skills,做饭,轻车熟路,,,
-马提尼,Life & Skills,饮料,轻车熟路,,,
-设计合理完善的实验,Mind & Knowledge,,轻车熟路,,,
-弗洛伊德理论,Mind & Knowledge,哲学,轻车熟路,,,
-使用latex,Technology & Tools,,轻车熟路,,,
-雪地/冰面行走,Adventure & Outdoor,户外,轻车熟路,,,
-处理高速爆胎,Adventure & Outdoor,,轻车熟路,,,
-汽车胎压放气,Adventure & Outdoor,,轻车熟路,,,
-moba游戏,Game & Works,游戏,轻车熟路,,,
-rts游戏,Game & Works,游戏,轻车熟路,,,
-桑格利亚,Life & Skills,饮料,轻车熟路,,,
-爬雪山,Adventure & Outdoor,户外,轻车熟路,,,
-骑越野摩托,Adventure & Outdoor,户外,轻车熟路,,,
-搭建个人博客,Technology & Tools,编程,轻车熟路,,,
-宝可梦卡牌,Game & Works,游戏,轻车熟路,,,
-开帆船,Adventure & Outdoor,户外,轻车熟路,,,
-风帆冲浪,Adventure & Outdoor,户外,轻车熟路,,,
-潜水,Adventure & Outdoor,户外,轻车熟路,,,
-健康饮食规划,Life & Skills,,略有小成,,,
-制作单词卡网页,Technology & Tools,"技术, 编程",略有小成,,,
-耳机发烧,Technology & Tools,,略有小成,,,
-瑞利散射,Mind & Knowledge,,略有小成,,,
-百分比误区,Mind & Knowledge,,略有小成,,,
-做流程图,Technology & Tools,,略有小成,,,
-复读复杂内容,Mind & Knowledge,,略有小成,,,
-哲学小屋理论,Mind & Knowledge,哲学,略有小成,,,
-柔软地板哲学讨论,Mind & Knowledge,哲学,略有小成,,,
-基于词语定义的讨论,Mind & Knowledge,哲学,略有小成,,,
-识别逻辑谬误,Mind & Knowledge,,略有小成,,,
-荒诞主义,Mind & Knowledge,哲学,略有小成,,,
-识别野外危险信号,Adventure & Outdoor,,略有小成,,,
-离线地图的准备,Adventure & Outdoor,,略有小成,,,
-纸质地图阅读,Adventure & Outdoor,,略有小成,,,
-爬山省力走法,Adventure & Outdoor,,略有小成,,,
-高海拔分配体力,Adventure & Outdoor,,略有小成,,,
-减轻晕车,Adventure & Outdoor,,略有小成,,,
-BT下载,Technology & Tools,技术,略有小成,,,
-像素绘画,Art & Creative,绘画,略有小成,,,
-使用冰镐,Adventure & Outdoor,户外,略有小成,,,
-使用AI快速实现小型网站,Technology & Tools,"技术, 编程",略有小成,,,
-延时摄影,Art & Creative,"技术, 摄影",略有小成,,,
-人像修图,Art & Creative,"技术, 摄影",略有小成,,,
-R语言,Technology & Tools,编程,略有小成,,,
-Python,Technology & Tools,编程,略有小成,,,
-JavaScript,Technology & Tools,编程,略有小成,,,
-影之诗卡牌,Game & Works,游戏,略有小成,,,
-Java,Technology & Tools,编程,略有小成,,,
-宝可梦对战,Game & Works,游戏,略有小成,2020,,
-暖气维修,Life & Skills,修理,炉火纯青,,,
-桌搭设计,Life & Skills,,炉火纯青,,,
-控糖理论,Mind & Knowledge,,炉火纯青,,,
-拼图刷胶,Life & Skills,,炉火纯青,,,
-拼拼图,Life & Skills,,炉火纯青,,,
-制作耳机架,Life & Skills,,炉火纯青,,,
-使用电钻,Life & Skills,,炉火纯青,,,
-电钻打孔,Life & Skills,,炉火纯青,,,
-光轴家具安装,Life & Skills,,炉火纯青,,,
-光轴家具设计,Life & Skills,,炉火纯青,,,
-烤面包,Life & Skills,做饭,炉火纯青,,,
-烤肉,Life & Skills,做饭,炉火纯青,,,
-出行物资采购,Adventure & Outdoor,,炉火纯青,,,
-煎牛排,Life & Skills,做饭,炉火纯青,,,
-山西烩菜,Life & Skills,做饭,炉火纯青,,,
-Bruschetta,Life & Skills,做饭,炉火纯青,,,
-海鲜意大利面,Life & Skills,做饭,炉火纯青,,,
-红酱意大利面,Life & Skills,做饭,炉火纯青,,,
-蘑菇risotto,Life & Skills,做饭,炉火纯青,,,
-pai语,Mind & Knowledge,,炉火纯青,,,
-千禧年文化,Mind & Knowledge,文化,炉火纯青,,,
-计算机思维,Mind & Knowledge,,炉火纯青,,,
-跨学科思考,Mind & Knowledge,,炉火纯青,,,
-会记手稿笔记,Mind & Knowledge,,炉火纯青,,,
-提取共通性,Mind & Knowledge,,炉火纯青,,,
-批判性思维,Mind & Knowledge,,炉火纯青,,,
-在陌生环境下保持冷静并独立行动,Adventure & Outdoor,,炉火纯青,,,
-保暖层衣物调节,Adventure & Outdoor,,炉火纯青,,户外过程及时增加或减少保暖层而不影响行动,
-判断冒险条件,Adventure & Outdoor,,炉火纯青,,能在不确定的天气下做出‘继续/折返’的决策,
-使用炉具,Adventure & Outdoor,,炉火纯青,,用简单炉具/电热设备完成一顿热食，烧水煮茶,
-轻量化装备选择,Adventure & Outdoor,,炉火纯青,,,
-挑选睡袋,Adventure & Outdoor,,炉火纯青,,,
-搭帐篷,Adventure & Outdoor,,炉火纯青,,,
-带队徒步,Adventure & Outdoor,,炉火纯青,,目前最多3人,
-根据出行选择合适的衣服鞋子,Adventure & Outdoor,,炉火纯青,,,
-分配背包空间,Adventure & Outdoor,,炉火纯青,,,
-绞盘拖车,Adventure & Outdoor,,炉火纯青,,,
-高海拔适应,Adventure & Outdoor,,炉火纯青,,,
-短途旅行行李打包,Adventure & Outdoor,,炉火纯青,,,
-订住宿,Adventure & Outdoor,,炉火纯青,,,
-旅行路线规划,Adventure & Outdoor,,炉火纯青,,,
-fps游戏,Game & Works,游戏,炉火纯青,,,
-视频调色,Art & Creative,技术,炉火纯青,,,
-重装徒步,Adventure & Outdoor,户外,炉火纯青,,,
-骑自行车,Adventure & Outdoor,户外,炉火纯青,,,
-裁切,Art & Creative,手工,炉火纯青,,,
-Vegas Pro,Technology & Tools,技术,炉火纯青,,,
-视频剪辑,Art & Creative,技术,炉火纯青,,,
-宝丽来摄影,Art & Creative,摄影,炉火纯青,,,
-后期调色,Art & Creative,"技术, 摄影",炉火纯青,,,
-diy磁带,Art & Creative,"手工, 音乐",炉火纯青,,,
-录制CD,Art & Creative,"技术, 音乐",炉火纯青,,,
-制作精选集,Art & Creative,"技术, 音乐",炉火纯青,,,
-录制磁带,Art & Creative,"技术, 音乐",炉火纯青,,,
-平面设计,Art & Creative,"审美, 技术, 绘画",炉火纯青,,,
-PS,Art & Creative,"审美, 技术, 绘画",炉火纯青,,,
-摄影,Art & Creative,"技术, 摄影",炉火纯青,,,
-生火,Adventure & Outdoor,户外,炉火纯青,,,
-安全规划,Adventure & Outdoor,,炉火纯青,,,
-游泳,Adventure & Outdoor,户外,炉火纯青,,,
-开车,Adventure & Outdoor,技术,炉火纯青,,,
-路线规划,Adventure & Outdoor,,炉火纯青,,,
-徒步,Adventure & Outdoor,户外,炉火纯青,,,
-居家装修,Life & Skills,,登峰造极,,,
-大钻水果三明治,Life & Skills,做饭,登峰造极,,,
-西红柿打卤面,Life & Skills,做饭,登峰造极,,,
-雪菜肉丝面,Life & Skills,做饭,登峰造极,,,
-parma三明治,Life & Skills,做饭,登峰造极,,,
-黑胶培根白酱意大利面,Life & Skills,做饭,登峰造极,,,
-清炖羊肉,Life & Skills,做饭,登峰造极,,,
-生姜沙瓦,Life & Skills,饮料,登峰造极,,,
-朗姆乌龙茶,Life & Skills,饮料,登峰造极,,,
-蟹黄拌面,Life & Skills,做饭,登峰造极,,,
-5种咖喱制作方式,Life & Skills,做饭,登峰造极,,猪肉奶油咖喱，日式咖喱，卢布朗咖喱，汤咖喱，番茄咖喱,
-边缘构图,Art & Creative,,登峰造极,,,
-骂脏话,Mind & Knowledge,,登峰造极,,,
-随机出行,Adventure & Outdoor,,登峰造极,,,
-交通延误调整行程,Adventure & Outdoor,,登峰造极,,,
-在交通工具上睡眠,Adventure & Outdoor,,登峰造极,,,
-长途旅行行李打包,Adventure & Outdoor,,登峰造极,,,
-开椰子,Adventure & Outdoor,"户外, 技巧",登峰造极,,,
-制作表情包,Art & Creative,"审美, 技术",登峰造极,,,
-FPS寻找合适灵敏度,Game & Works,游戏,登峰造极,,,
-心情转换,Meta & System,meta,登峰造极,,,
-制作gif,Art & Creative,,登峰造极,,,
-地球Online成就系统,Meta & System,meta,登峰造极,,,
-家务恢复法,Meta & System,meta,登峰造极,,,
-手搓打印类周边,Art & Creative,,登峰造极,,,
-挑选空白磁带,Art & Creative,音乐,登峰造极,,,
-手搓to do list,Art & Creative,手工,登峰造极,,,
-抠图,Art & Creative,技术,登峰造极,,,
-fgo,Game & Works,游戏,登峰造极,,,
-KOII合成器,Art & Creative,音乐,正在学习,,,
-吹唢呐,Art & Creative,音乐,正在学习,,,
-吹口琴,Art & Creative,音乐,正在学习,,,
-虚构影集,Mind & Knowledge,"哲学, 摄影",正在学习,,,
+﻿大类,技能名称,父技能,熟练度,掌握时间,描述,详细内容,Tag
+Life & Skills,文档分类与管理,,轻车熟路,,,,整理
+Life & Skills,发票报账,,轻车熟路,,,,
+Life & Skills,调酒,,略有小成,,,,饮料
+Life & Skills,朗姆乌龙茶,调酒 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E8%B0%83%E9%85%92%202bda66474030805c8186cd23031b3e6d.csv),登峰造极,,,,饮料
+Life & Skills,生姜沙瓦,调酒 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E8%B0%83%E9%85%92%202bda66474030805c8186cd23031b3e6d.csv),登峰造极,,,,饮料
+Life & Skills,马提尼,调酒 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E8%B0%83%E9%85%92%202bda66474030805c8186cd23031b3e6d.csv),轻车熟路,,,,饮料
+Life & Skills,桑格利亚,调酒 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E8%B0%83%E9%85%92%202bda66474030805c8186cd23031b3e6d.csv),轻车熟路,,,,饮料
+Life & Skills,用摩卡壶冲咖啡,,初窥门径,2025,,,饮料
+Life & Skills,通下水道,,轻车熟路,,,,修理
+Life & Skills,交水电费,,轻车熟路,,,,
+Life & Skills,暖气维修,,炉火纯青,,,,修理
+Life & Skills,健康饮食规划,,略有小成,,,,
+Life & Skills,桌搭设计,,炉火纯青,,,,
+Life & Skills,拼图刷胶,,炉火纯青,,,,
+Life & Skills,拼拼图,,炉火纯青,,,,
+Life & Skills,居家装修,,登峰造极,,,,
+Life & Skills,制作耳机架,,炉火纯青,,,,
+Life & Skills,使用电钻,,炉火纯青,,,,
+Life & Skills,电钻打孔,,炉火纯青,,,,
+Life & Skills,光轴家具安装,,炉火纯青,,,,
+Life & Skills,光轴家具设计,,炉火纯青,,,,
+Life & Skills,医院流程,,轻车熟路,,,,
+Life & Skills,做饭,,炉火纯青,,,,
+,Just 食物,做饭 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E9%A5%AD%202bda6647403080fa997ff3226ae1bb90.csv),炉火纯青,,,,
+Life & Skills,做中餐,做饭 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E9%A5%AD%202bda6647403080fa997ff3226ae1bb90.csv),炉火纯青,,,,
+Life & Skills,做意餐,做饭 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E9%A5%AD%202bda6647403080fa997ff3226ae1bb90.csv),炉火纯青,,,,
+Life & Skills,多种咖喱做法,Just 食物 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/Just%20%E9%A3%9F%E7%89%A9%202bda66474030802ba97fdeac4150500e.csv),登峰造极,,,,做饭
+Life & Skills,猪肉奶油咖喱,多种咖喱做法 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%A4%9A%E7%A7%8D%E5%92%96%E5%96%B1%E5%81%9A%E6%B3%95%202bca6647403080e396e3e41665f28299.csv),登峰造极,,,,
+Life & Skills,日式咖喱,多种咖喱做法 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%A4%9A%E7%A7%8D%E5%92%96%E5%96%B1%E5%81%9A%E6%B3%95%202bca6647403080e396e3e41665f28299.csv),炉火纯青,,,,
+Life & Skills,卢布朗咖喱,多种咖喱做法 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%A4%9A%E7%A7%8D%E5%92%96%E5%96%B1%E5%81%9A%E6%B3%95%202bca6647403080e396e3e41665f28299.csv),登峰造极,,,,
+Life & Skills,汤咖喱,多种咖喱做法 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%A4%9A%E7%A7%8D%E5%92%96%E5%96%B1%E5%81%9A%E6%B3%95%202bca6647403080e396e3e41665f28299.csv),炉火纯青,,,,
+Life & Skills,番茄咖喱,多种咖喱做法 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%A4%9A%E7%A7%8D%E5%92%96%E5%96%B1%E5%81%9A%E6%B3%95%202bca6647403080e396e3e41665f28299.csv),炉火纯青,,,,
+Life & Skills,烤面包,Just 食物 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/Just%20%E9%A3%9F%E7%89%A9%202bda66474030802ba97fdeac4150500e.csv),炉火纯青,,,,做饭
+Life & Skills,烤肉,Just 食物 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/Just%20%E9%A3%9F%E7%89%A9%202bda66474030802ba97fdeac4150500e.csv),炉火纯青,,,,做饭
+Life & Skills,大钻水果三明治,Just 食物 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/Just%20%E9%A3%9F%E7%89%A9%202bda66474030802ba97fdeac4150500e.csv),登峰造极,,,,做饭
+Life & Skills,煎牛排,Just 食物 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/Just%20%E9%A3%9F%E7%89%A9%202bda66474030802ba97fdeac4150500e.csv),炉火纯青,,,,做饭
+Life & Skills,清炖羊肉,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),登峰造极,,,,做饭
+Life & Skills,蟹黄拌面,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),登峰造极,,,,做饭
+Life & Skills,手擀面,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),轻车熟路,,,,做饭
+Life & Skills,山西烩菜,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),炉火纯青,,,,做饭
+Life & Skills,西红柿打卤面,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),登峰造极,,,,做饭
+Life & Skills,雪菜肉丝面,做中餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E4%B8%AD%E9%A4%90%202bda6647403080dfabcbd15826b8a5db.csv),登峰造极,,,,做饭
+Life & Skills,parma三明治,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),登峰造极,,,,做饭
+Life & Skills,Bruschetta,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),炉火纯青,,,,做饭
+Life & Skills,海鲜意大利面,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),炉火纯青,,,,做饭
+Life & Skills,黑胶培根白酱意大利面,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),登峰造极,,,,做饭
+Life & Skills,红酱意大利面,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),炉火纯青,,,,做饭
+Life & Skills,蘑菇risotto,做意餐 (%E6%8A%80%E8%83%BD%E7%AE%A1%E7%90%86/%E5%81%9A%E6%84%8F%E9%A4%90%202bda66474030800d97f2c18644a06989.csv),炉火纯青,,,,做饭
+Art & Creative,剧本创作,,初窥门径,,,,
+Art & Creative,世界观设定,,初窥门径,,,,
+Art & Creative,写杂谈文章,,初窥门径,,,,
+Art & Creative,弹吉他,,初窥门径,,,,音乐
+Art & Creative,胶片摄影,,初窥门径,,,,摄影
+Art & Creative,KOII合成器,,正在学习,,,,音乐
+Art & Creative,吹唢呐,,正在学习,,,,音乐
+Art & Creative,吹口琴,,正在学习,,,,音乐
+Art & Creative,边缘构图,,登峰造极,,,,
+Art & Creative,制作表情包,,登峰造极,,,,"审美, 技术"
+Art & Creative,视频调色,,炉火纯青,,,,技术
+Art & Creative,像素绘画,,略有小成,,,,绘画
+Art & Creative,制作gif,,登峰造极,,,,
+Art & Creative,裁切,,炉火纯青,,,,手工
+Art & Creative,手搓打印类周边,,登峰造极,,,,
+Art & Creative,视频剪辑,,炉火纯青,,,,技术
+Art & Creative,宝丽来摄影,,炉火纯青,,,,摄影
+Art & Creative,延时摄影,,略有小成,,,,"技术, 摄影"
+Art & Creative,人像修图,,略有小成,,,,"技术, 摄影"
+Art & Creative,后期调色,,炉火纯青,,,,"技术, 摄影"
+Art & Creative,diy磁带,,炉火纯青,,,,"手工, 音乐"
+Art & Creative,挑选空白磁带,,登峰造极,,,,音乐
+Art & Creative,手搓to do list,,登峰造极,,,,手工
+Art & Creative,录制CD,,炉火纯青,,,,"技术, 音乐"
+Art & Creative,制作精选集,,炉火纯青,,,,"技术, 音乐"
+Art & Creative,录制磁带,,炉火纯青,,,,"技术, 音乐"
+Art & Creative,抠图,,登峰造极,,,,技术
+Art & Creative,平面设计,,炉火纯青,,,,"审美, 技术, 绘画"
+Art & Creative,PS,,炉火纯青,,,,"审美, 技术, 绘画"
+Art & Creative,摄影,,炉火纯青,,,,"技术, 摄影"
+Mind & Knowledge,量子力学基础,,初窥门径,,,,
+Mind & Knowledge,逻辑哲学论,,初窥门径,,,,哲学
+Mind & Knowledge,存在主义,,初窥门径,,,,哲学
+Mind & Knowledge,如何读博尔赫斯,,初窥门径,,,,哲学
+Mind & Knowledge,设计合理完善的实验,,轻车熟路,,,,
+Mind & Knowledge,弗洛伊德理论,,轻车熟路,,,,哲学
+Mind & Knowledge,控糖理论,,炉火纯青,,,,
+Mind & Knowledge,骂脏话,,登峰造极,,,,
+Mind & Knowledge,pai语,,炉火纯青,,,,
+Mind & Knowledge,千禧年文化,,炉火纯青,,,,文化
+Mind & Knowledge,瑞利散射,,略有小成,,,,
+Mind & Knowledge,百分比误区,,略有小成,,,,
+Mind & Knowledge,计算机思维,,炉火纯青,,,,
+Mind & Knowledge,跨学科思考,,炉火纯青,,,,
+Mind & Knowledge,会记手稿笔记,,炉火纯青,,,,
+Mind & Knowledge,提取共通性,,炉火纯青,,,,
+Mind & Knowledge,复读复杂内容,,略有小成,,,,
+Mind & Knowledge,哲学小屋理论,,略有小成,,,,哲学
+Mind & Knowledge,柔软地板哲学讨论,,略有小成,,,,哲学
+Mind & Knowledge,基于词语定义的讨论,,略有小成,,,,哲学
+Mind & Knowledge,识别逻辑谬误,,略有小成,,,,
+Mind & Knowledge,批判性思维,,炉火纯青,,,,
+Mind & Knowledge,荒诞主义,,略有小成,,,,哲学
+Mind & Knowledge,虚构影集,,正在学习,,,,"哲学, 摄影"
+Technology & Tools,无线电通讯,,初窥门径,,,,技术
+Technology & Tools,Notion,,初窥门径,,,,技术
+Technology & Tools,C++,,初窥门径,,,,编程
+Technology & Tools,搭建网站,,初窥门径,,,,"技术, 编程"
+Technology & Tools,搭建NAS,,初窥门径,,,,技术
+Technology & Tools,使用latex,,轻车熟路,,,,
+Technology & Tools,搭建个人博客,,轻车熟路,,,,编程
+Technology & Tools,制作单词卡网页,,略有小成,,,,"技术, 编程"
+Technology & Tools,耳机发烧,,略有小成,,,,
+Technology & Tools,做流程图,,略有小成,,,,
+Technology & Tools,BT下载,,略有小成,,,,技术
+Technology & Tools,使用AI快速实现小型网站,,略有小成,,,,"技术, 编程"
+Technology & Tools,Vegas Pro,,炉火纯青,,,,技术
+Technology & Tools,R语言,,略有小成,,,,编程
+Technology & Tools,Python,,略有小成,,,,编程
+Technology & Tools,JavaScript,,略有小成,,,,编程
+Technology & Tools,Java,,略有小成,,,,编程
+Meta & System,周末延长法,,初窥门径,,,,meta
+Meta & System,设计个人技能树,,初窥门径,,,,meta
+Meta & System,心情转换,,登峰造极,,,,meta
+Meta & System,地球Online成就系统,,登峰造极,,,,meta
+Meta & System,家务恢复法,,登峰造极,,,,meta
+Adventure & Outdoor,海利克姆急救法,,初窥门径,,,,
+Adventure & Outdoor,人工呼吸,,初窥门径,,,,
+Adventure & Outdoor,基础急救,,初窥门径,,,,
+Adventure & Outdoor,采购式出行,,初窥门径,,,,
+Adventure & Outdoor,绳索速降,,初窥门径,,,,户外
+Adventure & Outdoor,冲浪,,初窥门径,,,,户外
+Adventure & Outdoor,攀岩,,初窥门径,,,,户外
+Adventure & Outdoor,雪地/冰面行走,,轻车熟路,,,,户外
+Adventure & Outdoor,处理高速爆胎,,轻车熟路,,,,
+Adventure & Outdoor,汽车胎压放气,,轻车熟路,,,,
+Adventure & Outdoor,爬雪山,,轻车熟路,,,,户外
+Adventure & Outdoor,骑越野摩托,,轻车熟路,,,,户外
+Adventure & Outdoor,开帆船,,轻车熟路,,,,户外
+Adventure & Outdoor,风帆冲浪,,轻车熟路,,,,户外
+Adventure & Outdoor,潜水,,轻车熟路,,,,户外
+Adventure & Outdoor,出行物资采购,,炉火纯青,,,,
+Adventure & Outdoor,识别野外危险信号,,略有小成,,,,
+Adventure & Outdoor,离线地图的准备,,略有小成,,,,
+Adventure & Outdoor,纸质地图阅读,,略有小成,,,,
+Adventure & Outdoor,在陌生环境下保持冷静并独立行动,,炉火纯青,,,,
+Adventure & Outdoor,保暖层衣物调节,,炉火纯青,,户外过程及时增加或减少保暖层而不影响行动,,
+Adventure & Outdoor,判断冒险条件,,炉火纯青,,能在不确定的天气下做出‘继续/折返’的决策,,
+Adventure & Outdoor,使用炉具,,炉火纯青,,用简单炉具/电热设备完成一顿热食，烧水煮茶,,
+Adventure & Outdoor,轻量化装备选择,,炉火纯青,,,,
+Adventure & Outdoor,挑选睡袋,,炉火纯青,,,,
+Adventure & Outdoor,搭帐篷,,炉火纯青,,,,
+Adventure & Outdoor,带队徒步,,炉火纯青,,目前最多3人,,
+Adventure & Outdoor,根据出行选择合适的衣服鞋子,,炉火纯青,,,,
+Adventure & Outdoor,爬山省力走法,,略有小成,,,,
+Adventure & Outdoor,分配背包空间,,炉火纯青,,,,
+Adventure & Outdoor,随机出行,,登峰造极,,,,
+Adventure & Outdoor,交通延误调整行程,,登峰造极,,,,
+Adventure & Outdoor,绞盘拖车,,炉火纯青,,,,
+Adventure & Outdoor,高海拔分配体力,,略有小成,,,,
+Adventure & Outdoor,高海拔适应,,炉火纯青,,,,
+Adventure & Outdoor,在交通工具上睡眠,,登峰造极,,,,
+Adventure & Outdoor,减轻晕车,,略有小成,,,,
+Adventure & Outdoor,长途旅行行李打包,,登峰造极,,,,
+Adventure & Outdoor,短途旅行行李打包,,炉火纯青,,,,
+Adventure & Outdoor,开椰子,,登峰造极,,,,"户外, 技巧"
+Adventure & Outdoor,订住宿,,炉火纯青,,,,
+Adventure & Outdoor,旅行路线规划,,炉火纯青,,,,
+Adventure & Outdoor,重装徒步,,炉火纯青,,,,户外
+Adventure & Outdoor,使用冰镐,,略有小成,,,,户外
+Adventure & Outdoor,骑自行车,,炉火纯青,,,,户外
+Adventure & Outdoor,生火,,炉火纯青,,,,户外
+Adventure & Outdoor,安全规划,,炉火纯青,,,,
+Adventure & Outdoor,游泳,,炉火纯青,,,,户外
+Adventure & Outdoor,开车,,炉火纯青,,,,技术
+Adventure & Outdoor,路线规划,,炉火纯青,,,,
+Adventure & Outdoor,徒步,,炉火纯青,,,,户外
+Game & Works,moba游戏,,轻车熟路,,,,游戏
+Game & Works,rts游戏,,轻车熟路,,,,游戏
+Game & Works,宝可梦卡牌,,轻车熟路,,,,游戏
+Game & Works,fps游戏,,炉火纯青,,,,游戏
+Game & Works,FPS寻找合适灵敏度,,登峰造极,,,,游戏
+Game & Works,fgo,,登峰造极,,,,游戏
+Game & Works,影之诗卡牌,,略有小成,,,,游戏
+Game & Works,宝可梦对战,,略有小成,2020,,,游戏
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

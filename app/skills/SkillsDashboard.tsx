@@ -8,12 +8,13 @@ interface SkillsDashboardProps {
   levelOrder: SkillLevel[];
 }
 
+// 从低到高：绿 → 黄 → 蓝 → 红 → 紫
 const LEVEL_LABEL_COLORS: Record<SkillLevel, string> = {
-  初窥门径: "bg-slate-800/60 border-slate-500/60",
-  轻车熟路: "bg-emerald-900/40 border-emerald-500/60",
-  略有小成: "bg-emerald-800/50 border-emerald-400/80",
-  炉火纯青: "bg-emerald-700/60 border-emerald-300/90",
-  登峰造极: "bg-cyan-700/60 border-cyan-300/90",
+  初窥门径: "bg-emerald-900/55 border-emerald-400/80",
+  轻车熟路: "bg-amber-900/55 border-amber-400/80",
+  略有小成: "bg-sky-900/55 border-sky-400/80",
+  炉火纯青: "bg-red-900/55 border-red-400/80",
+  登峰造极: "bg-violet-900/60 border-violet-400/90",
   正在学习: "bg-slate-900/60 border-slate-600/80",
 };
 
@@ -27,7 +28,7 @@ export function SkillsDashboard({
   const masteredLevels = levelOrder.filter((lv) => lv !== "正在学习");
 
   return (
-    <section className="space-y-4 rounded-2xl border border-emerald-500/40 bg-gradient-to-br from-slate-950 via-slate-900/90 to-black p-5 shadow-[0_0_40px_rgba(16,185,129,0.25)]">
+    <section className="space-y-4">
       {/* 标题 + 总计数 */}
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
         <div>
@@ -82,7 +83,9 @@ export function SkillsDashboard({
                 <div
                   className="h-full bg-gradient-to-r from-emerald-300 to-cyan-300"
                   style={{
-                    width: `${Math.min(count / Math.max(total, 1), 1) * 100}%`,
+                    width: `${
+                      Math.min(count / Math.max(total, 1), 1) * 100
+                    }%`,
                   }}
                 />
               </div>
