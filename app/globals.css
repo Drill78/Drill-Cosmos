@@ -118,11 +118,37 @@ body {
 }
 
 @layer utilities {
-  /* 如果你想给普通文字加轻微发光，可以用这个 */
-  .text-glow-soft {
-    text-shadow:
-      0 0 3px rgba(0, 255, 204, 0.6),
-      0 0 8px rgba(0, 255, 204, 0.4);
+  /* 整片技能墙：从下往上缓慢滚动 */
+  @keyframes nebula-drift {
+    0% {
+      transform: translateY(18%);
+    }
+    100% {
+      transform: translateY(-18%);
+    }
+  }
+
+  .nebula-scroll {
+    animation: nebula-drift 36s linear infinite;
+  }
+
+  /* 每个卡片自身的轻微上下浮动（叠加在全局滚动上） */
+  @keyframes slot-drift {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-6%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+  .slot-drift {
+    animation-name: slot-drift;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
   }
 }
 
